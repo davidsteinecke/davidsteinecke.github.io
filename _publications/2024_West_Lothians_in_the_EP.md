@@ -1,7 +1,7 @@
 ---
 title: "West Lothians in the European Parliament: The Culture of Differentiated Integration"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024_West_Lothians_in_the_EP
 excerpt: #''
 date: 2024-08-15

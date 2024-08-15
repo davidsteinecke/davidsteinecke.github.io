@@ -1,7 +1,7 @@
 ---
 title: "Shadows as leaders? The amendment success of shadow rapporteurs in the European Parliament"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2022_Shadows_as_leaders_EUP
 excerpt: #'In light of secluded decision-making and early agreements, a binding mandate for the European Parliament’s negotiation team is essential to prevent agency loss in trilogue negotiations. In this article, I investigate the influence of the often-overlooked shadow rapporteurs on this mandate. Shadow rapporteurs are their party group’s representatives and act as checks on the rapporteur. Drawing on novel insights from network analysis, I expect shadow rapporteurs and their stance on EU integration to affect the success of amendments they are sponsoring. I draw on a novel dataset of 1524 committee amendments and employ three-level multinomial logistic regression to test these expectations. I find shadow rapporteurs to be influential policy leaders who successfully shape the committee report and, therefore, mitigate the risk of agency loss in potential trilogues. Shadow rapporteurs can successfully check the rapporteur and thereby influence the content of EU legislation.'
 date: 2022-08-29
