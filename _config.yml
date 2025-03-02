@@ -8,12 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
-title                    : "David Steinecke"
-=======
 site_theme               : "default"
-title                    : "Your Name / Site Title"
->>>>>>> upstream/master
+title                    : "David Steinecke"
 title_separator          : "-"
 name                     : &name "David Steinecke"
 description              : &description "personal description"
@@ -71,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "davidsteinecke"
+  twitter          : #"davidsteinecke"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
